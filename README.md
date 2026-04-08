@@ -4,6 +4,8 @@
 
 This project is part of my [Front-End Development Libraries V8 certification from freeCodeCamp](https://www.freecodecamp.org/certification/benonsocial/front-end-development-libraries).
 
+https://github.com/user-attachments/assets/2846b401-f0c3-410e-8ca6-47fdc8fc252f
+
 ## Objective
 
 Build an app that is functionally similar to this: https://markdown-previewer.freecodecamp.rocks/.
